@@ -41,7 +41,7 @@ Este projeto foi escolhido por estar diretamente relacionado à minha vivência 
 ## 📽️ Vídeo Demonstração
 
 Apresentação completa do sistema, incluindo hardware, código e teste com protocolo MQTT:  
-🔗 [Inserir link do vídeo no YouTube (não listado)]
+🔗 (https://youtu.be/kpqkQivZMP0)
 
 ---
 
